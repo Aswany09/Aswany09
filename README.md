@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed Eisa</h1>
-<h3 align="center">A passionate frontend developer from Egyot</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Eissa</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React & Flutter**
+- 🌱 I’m currently learning **Some thing cool**
 
 - 📝 I regularly write articles on [aswany.hashnote.dev](aswany.hashnote.dev)
 
